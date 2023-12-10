@@ -5,6 +5,7 @@ Coursera course: HTML, CSS, and Javascript for Web Developers
 Johns Hopkins University
 
 * Module-2 - Coding
+* Module-3 - Coding
 
 # Outputs :
 
