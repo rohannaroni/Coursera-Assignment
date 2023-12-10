@@ -2,8 +2,6 @@
 Coursera test repository 
 
 
-# Assignments :
-
 * Module-2 - Coding
 
 # Outputs :
