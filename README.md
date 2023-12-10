@@ -10,3 +10,4 @@ Johns Hopkins University
 # Outputs :
 
 * [Module-2](https://rohannaroni.github.io/Coursera-Assignment/module-2/index.html)
+* [Module-3](https://rohannaroni.github.io/Coursera-Assignment/module-3/index.html)
