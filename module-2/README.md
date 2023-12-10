@@ -6,5 +6,5 @@ Coursera course: HTML, CSS, and Javascript for Web Developers
 Johns Hopkins University
 
 # To see the output [CLICK HERE]
-* [Module-2](https://rohannaroni.github.io/Coursera-Assignment/module-2/index.html)
+* [CLICK HEAR](https://rohannaroni.github.io/Coursera-Assignment/module-2/index.html)
 
