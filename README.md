@@ -2,7 +2,7 @@
 Coursera test repository 
 
 
-* Module-2 - Coding
+* Module-2 - Coding Completed
 
 # Outputs :
 
