@@ -1,8 +1,10 @@
 # Coursera-Assignment
 Coursera test repository 
 
+Coursera course: HTML, CSS, and Javascript for Web Developers
+Johns Hopkins University
 
-* Module-2 - Coding Completed
+* Module-2 - Coding
 
 # Outputs :
 
